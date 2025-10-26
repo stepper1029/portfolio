@@ -20,7 +20,7 @@ function App() {
       title: "Portfolio Website",
       description: "Responsive portfolio website showcasing projects and skills with modern web standards. Features dynamic content and a consistent, adaptable interface optimized for both desktop and mobile users without losing functionality.",
       tech: ["React", "CSS", "JavaScript"],
-      link: "#"
+      link: "https://github.com/stepper1029/portfolio"
     }
   ];
 
