@@ -51,8 +51,8 @@ function App() {
         {/* Hero Section */}
         <section className="hero-section">
           <div className="hero-content">
-            <h1>software engineer based in NYC</h1>
-            <h1>designing impactful software solutions</h1>
+            <h1>Software engineer based in NYC</h1>
+            <h1>Designing impactful software solutions</h1>
           </div>
         </section>
 
